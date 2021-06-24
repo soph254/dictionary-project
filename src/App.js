@@ -1,6 +1,6 @@
 
 import './App.css';
-import logo from "./logo.png";
+import Knowledge from "./Knowledge.png";
 import Footer from "./Footer";
 import Dictionary from "./Dictionary";
 
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />
+          <img src={Knowledge} className="App-logo img-fluid" alt="logo" />
         </header>
 
         <main>
