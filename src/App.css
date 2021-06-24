@@ -7,3 +7,7 @@
     display: block;
     margin: 0 auto;
 }
+
+.container {
+ background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);
+}
