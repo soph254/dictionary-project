@@ -8,7 +8,6 @@ import knowledge from "./Knowledge.png";
 function App() {
   return (
     <div className="App">
-      <div className="container">
         <header className="App-header">
           <img src={knowledge} className="KnowledgeIcon" alt="icon" />
           <h1> Dictionary </h1>
@@ -21,9 +20,6 @@ function App() {
 
 
         </main>
-
-
-      </div>
       <Footer />
     </div>
   );
