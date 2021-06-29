@@ -29,3 +29,15 @@ box-shadow: 0 10px 10px rgb(0 0 0 / 6%);
     font-size: 11px;
     margin-top: 5px;
 }
+
+.Dictionary .button-search {
+    border: 1px solid #2f536f;
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 18px;
+    transition: all 150ms ease-in-out;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #2f536f;
+}
